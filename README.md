@@ -91,4 +91,7 @@
 
 - ver 2.5
 
-## 7. FAQ
+## 7. Award
+
+![데이터 분석 웹 서비스 프로젝트 - award](./award.png)
+![데이터 분석 웹 서비스 프로젝트 - medimap](./medimap.png)
